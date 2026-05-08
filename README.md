@@ -4,14 +4,14 @@
 
 ---
 
-## I'm a Software Engineer!!
+## Building scalable web applications 🚀
 
 - 🌱 I am mostly a **.NET Developer & React Developer**
 - 💻 Strong foundation in **C, C++, C#, SQL, DSA**
 - 👯 I’m looking to collaborate with other developers
 - 🎯 Effective Problem Solver & Critical Thinker
 - 🥅 2026 Goals: Build impactful projects & improve development skills
-- ⚡ Fun fact: I love Playing PUBG, and kuch bhi kar deta hun 😄
+- ⚡ Fun fact: I love playing PUBG, and kuch bhi kar deta hun 😄
 
 ---
 
@@ -20,6 +20,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daim-ali-318479380/)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimx1214/)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Daimx0)
+
+---
+
+### 📄 Resume / CV
+
+👉 [Download My CV](https://drive.google.com/file/d/19Vj7xQaaDGpc4vNw3D8pa-SvQ6079zOs/view?usp=sharing)
 
 ---
 
