@@ -1,36 +1,18 @@
-<h1 align="center">Welcome to my GitHub 🚀</h1>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/u/DaimAli1234/)&nbsp;&nbsp;
-
----
-
-## Building scalable web applications 🚀
-
-- 🌱 I am mostly a **.NET Developer & React Developer**
-- 💻 Strong foundation in **C, C++, C#, SQL, DSA**
-- 👯 I’m looking to collaborate with other developers
-- 🎯 Effective Problem Solver & Critical Thinker
-- 🥅 2026 Goals: Build impactful projects & improve development skills
-- ⚡ Fun fact: I love playing PUBG, and kuch bhi kar deta hun 😄
-
----
-
-### 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daim-ali-318479380/)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daimx1214/)&nbsp;&nbsp;
+# Daim Ali — .NET & React Developer
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daim-ali-318479380/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/u/DaimAli1234/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Daimx0)
-
+[![CV](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](https://drive.google.com/file/d/19Vj7xQaaDGpc4vNw3D8pa-SvQ6079zOs/view?usp=sharing)
+ 
 ---
-
-### 📄 Resume / CV
-
-👉 [Download My CV](https://drive.google.com/file/d/19Vj7xQaaDGpc4vNw3D8pa-SvQ6079zOs/view?usp=sharing)
-
+ 
+CS student at **MNS University of Agriculture, Multan** (GPA 3.85) building scalable web apps with ASP.NET Core and React. Interested in backend architecture, clean APIs, and competitive programming.
+ 
 ---
-
-### 🛠️ Languages and Tools
-
+ 
+## Languages & Tools
+ 
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -42,42 +24,41 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-
 <br /><br />
-
+ 
 ---
-
-## 🎓 Education
-
-- **MNS University of Agriculture, Multan**
-- Bachelor of Science in Computer Science  
-- GPA: **3.85**  
-- **2024 - 2028**
-
+ 
+## Tech Stack
+ 
+**Languages:** C · C++ · C# · JavaScript · SQL  
+**Frontend:** React · HTML · CSS  
+**Backend:** ASP.NET Core 8 · Entity Framework Core · ADO.NET · REST APIs  
+**Database:** SQL Server · LINQ · EF Core Migrations · SSMS  
+**Tools:** Git · GitHub · Visual Studio 2022 · VS Code  
+**Other:** Windows Forms · OpenCV · Swagger
+ 
 ---
-
-## 💼 Work Experience
-
-### Programming Instructor (Part-time) — 2025 – Present  
-- Taught C++, SQL Server, and basic ML to students  
-- Conducted weekly practice sessions and mini-projects  
-- Guided students in programming fundamentals and Git basics  
-
-### Technical Team Lead — 2025 – Present  
-- Leading small university team for coding and .NET projects  
-- Helping students in problem-solving and debugging  
-- Participating in competitive programming practice  
-
+ 
+## Experience
+ 
+**Programming Instructor** *(Part-time, 2025 – Present)*  
+Teaching C++, SQL Server, and introductory ML. Run weekly practice sessions and mentor students through mini-projects and Git fundamentals.
+ 
+**Technical Team Lead** *(2025 – Present)*  
+Leading a university team on .NET and competitive programming projects. Focus on code review, debugging, and problem-solving workflows.
+ 
 ---
-
-## ⚡ Skills
-
-- **Languages:** C, C++, C#, SQL  
-- **Web & API:** HTML, CSS, JavaScript, REST API, Swagger  
-- **Problem Solving:** Data Structures & Algorithms (DSA)  
-- **Frameworks:** ASP.NET Core 8, Entity Framework Core, ADO.NET, Windows Forms, OpenCV  
-- **Database:** SQL Server, LINQ, EF Core Migrations, Query Optimization, SSMS  
-- **Tools:** Visual Studio 2022, VS Code, Git, GitHub, Dev-C++  
-- **Other:** Operating Systems, Networking (Basics)
-
+ 
+## Education
+ 
+**B.S. Computer Science** — MNS University of Agriculture, Multan  
+2024 – 2028 · GPA: 3.85
+ 
 ---
+ 
+## 2026 Goals
+ 
+- Build and launch my own startup
+- Ship production-ready full-stack projects that solve real problems
+- Reach 200+ LeetCode problems solved
+ 
