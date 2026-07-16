@@ -23,7 +23,7 @@
 
 ⭐ Current GPA: **3.85 / 4.00**
 
-🥇 Participated in **12+ Startup and Programming Competitions**
+🥇 Participated in **13+ Startup and Programming Competitions**
 
 🏆 **ICPC Regional 2026 Participant**
 
@@ -52,7 +52,7 @@
 
 ✅ Solved **200+ Problems**
 
-✅ Participated in **8+ Programming Contests**
+✅ Participated in **10+ Programming Contests**
 
 ✅ ICPC Regional 2026 Participant
 
