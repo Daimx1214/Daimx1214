@@ -27,7 +27,7 @@
 
 🏆 **ICPC Regional 2026 Participant**
 
-💻 Competitive Programmer with **200+ solved problems**
+💻 Competitive Programmer with **300+ solved problems**
 
 🚀 Passionate about **Software Engineering, Backend Development, and Startups**
 
