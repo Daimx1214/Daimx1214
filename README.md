@@ -21,7 +21,7 @@
 
 🎓 BS Computer Science Student at **MNS University of Agriculture, Multan**
 
-⭐ Current GPA: **3.85 / 4.00**
+⭐ Current GPA: **3.88 / 4.00**
 
 🥇 Participated in **13+ Startup and Programming Competitions**
 
