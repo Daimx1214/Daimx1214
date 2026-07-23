@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daim-ali-318479380/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23ffb51e?style=for-the-badge\&logo=leetcode\&labelColor=black)](https://leetcode.com/u/DaimAli1234/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://x.com/Daimx0)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](https://drive.google.com/file/d/19Vj7xQaaDGpc4vNw3D8pa-SvQ6079zOs/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge)](https://drive.google.com/file/d/1D8VOe2j5BZa850M0Pc4smoUoC5ERyQYI/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=DaimAli&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
