@@ -172,6 +172,8 @@
 
 🥈 5th Position — ICPC Regional Programming Competition 2026
 
+🥉 7th Position — AWS Hackathon 2026
+
 🏅 Harvard CS50x Puzzle Certificate
 
 🏅 Microsoft Office Specialist
